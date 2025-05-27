@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LingoBoost</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Importation de pdf.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+</head>
+<body>
+  <div class="navbar">
+    <div class="hamburger" onclick="toggleMenu()">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div class="menu" id="menu">
+      <a href="index.html">Accueil</a>
+      <a href="apropos.html">À propos</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+  
+  <h1>LingoBoost</h1>
+  <div class="niveau-anglais">
+    <label for="level">Choisissez votre niveau d'anglais :</label>
+    <select id="level">
+      <option value="A1">A1</option>
+      <option value="A2">A2</option>
+      <option value="B1">B1</option>
+      <option value="B2">B2</option>
+      <option value="C1">C1</option>
+    </select>
+
+    <label for="pdfUpload">Upload votre fichier PDF :</label>
+    <input type="file" id="pdfUpload" accept="application/pdf" />
+
+    <button id="processBtn">Analyser le texte</button>
+  </div>
+
+  <div id="output"></div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

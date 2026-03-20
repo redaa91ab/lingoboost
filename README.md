@@ -1,4 +1,4 @@
-# 📚 LingoBoost – Projet d’admission OpenClassrooms
+# LingoBoost – Projet d’admission OpenClassrooms
 
 **LingoBoost** est un outil développé dans le cadre de la **procédure d'entrée à la formation "Développeur d'application Python" proposée par OpenClassrooms**.
 
@@ -6,7 +6,7 @@ L’objectif : créer un projet web complet en moins de 72 heures, démontrant l
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 LingoBoost est un outil destiné aux apprenants francophones en anglais. Il permet d’analyser un document PDF (film, série, livre, etc.) et d’extraire automatiquement les **mots trop complexes pour le niveau CECR choisi (A1 à C1)**.
 
@@ -16,7 +16,7 @@ Le projet fonctionne hors ligne, sans connexion Internet, grâce à une base de 
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Sélection du niveau d’anglais (A1 à C1)
 - Upload d’un fichier PDF
@@ -26,7 +26,7 @@ Le projet fonctionne hors ligne, sans connexion Internet, grâce à une base de 
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - HTML5 / CSS3
 - JavaScript
@@ -35,7 +35,7 @@ Le projet fonctionne hors ligne, sans connexion Internet, grâce à une base de 
 
 ---
 
-## ▶️ Comment tester le projet
+## Comment tester le projet
 
 1. Lance `index.html` via un **Live Server** (par exemple dans Visual Studio Code avec l’extension Live Server)
 2. Choisissez votre niveau d’anglais
@@ -44,7 +44,7 @@ Le projet fonctionne hors ligne, sans connexion Internet, grâce à une base de 
 
 ---
 
-## 📁 Contenu du dossier
+## Contenu du dossier
 
 - `index.html` – Page principale
 - `script.js` – Logique de traitement des mots
@@ -54,7 +54,7 @@ Le projet fonctionne hors ligne, sans connexion Internet, grâce à une base de 
 
 ---
 
-## ✅ Cours requis (et validés)
+## Cours requis (et validés)
 
 - ✔️ Apprenez à créer votre site web avec HTML5 et CSS3 (15 heures)  
 - ✔️ Découvrez le fonctionnement des algorithmes (6 heures)
@@ -64,7 +64,7 @@ Des captures d’écran des attestations sont incluses dans le dossier `captures
 
 ---
 
-## 🎥 Vidéo de présentation
+## Vidéo de présentation
 
 📺 [Voir la vidéo de démonstration du projet](https://youtu.be/zXNfNmFkNB0)
 
@@ -72,10 +72,10 @@ Durée : environ 10 minutes
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 Projet réalisé par **Réda Adam Abdi** dans le cadre de la procédure d’admission à la formation **Développeur d’application Python** sur OpenClassrooms.
 
 ---
 
-> Merci à l’équipe OpenClassrooms pour cette opportunité ! 🙌
+> Merci à l’équipe OpenClassrooms pour cette opportunité !
